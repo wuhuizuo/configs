@@ -1,5 +1,6 @@
 prowjob_namespace: prow
 pod_namespace: prow-test-pods
+# more detail logs
 log_level: debug
 
 branch-protection:
